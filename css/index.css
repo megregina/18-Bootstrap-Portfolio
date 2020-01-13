@@ -10,3 +10,21 @@ nav {
   background: #D8AEFD 0% 0% no-repeat padding-box;
   opacity: 1;
 }
+h1 {
+  font-family: helvetica, arial, sans-serif;
+ }
+ /* Write your selector for .left below */
+ .left {
+
+ }
+ /* Write your selector for .right below */
+ .right {
+
+ }
+ /* Write your selector for .separator below */
+ .separator {
+
+ }
+ .body {
+   background-color: white;
+  }
